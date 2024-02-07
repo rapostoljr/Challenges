@@ -24,7 +24,7 @@ h1 {
     color: #d9dcd6;
 }
 
-header_buttons {
+nav_buttons {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +32,11 @@ header_buttons {
     font-size: 20px;
 }
 
-header_buttons ul {
+nav_buttons ul {
     list-style-type: none;
 }
 
-header_buttons ul li {
+nav_buttons ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -46,7 +46,7 @@ a {
     text-decoration: none;
 }
 
-p {
+description {
     font-size: 16px;
 }
 
@@ -69,13 +69,13 @@ p {
     margin-left: 25px;
 }
 
-.content {
+content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.benefits {
+benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -101,34 +101,12 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -173,28 +151,18 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+h4 {
     font-size: 20px;
 }
