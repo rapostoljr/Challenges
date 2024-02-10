@@ -51,3 +51,5 @@ Now you can add this to your GitHub account. Login to your GitHub account, then 
 After doing all of this, you can now clone this repository by type "git clone git@github.com:rapostoljr/challenge_1_reworking_website.git"
 
 This will clone the file for you personal use.
+
+To view live page, open your browser (preferably Google Chrome), then enter "https://rapostoljr.github.io/challenge_1_reworking_website" in your address bar.
