@@ -52,4 +52,4 @@ After doing all of this, you can now clone this repository by type "git clone gi
 
 This will clone the file for you personal use.
 
-To view live page, open your browser (preferably Google Chrome), then enter "https://rapostoljr.github.io/challenge_1_reworking_website" in your address bar.
+To view live page, open your browser (preferably Google Chrome), then enter "https://rapostoljr.github.io/challenge_1_code_refactor_for_horiseon_website/" in your address bar.
